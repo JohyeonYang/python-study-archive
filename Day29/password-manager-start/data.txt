@@ -1,0 +1,3 @@
+Amazon | abcd@gmail.com | password1 
+Ebay | abcd@gmail.com | abcd 
+a | abcd@gmail.com | a 
